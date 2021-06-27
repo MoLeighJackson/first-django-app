@@ -1,2 +1,1 @@
-# first-django-app
-Basic Poll Application following this tutorial https://docs.djangoproject.com/en/3.2/intro/tutorial01/
+This branch uses the poll application built in the [Writing your first Django app](https://docs.djangoproject.com/en/3.2/intro/tutorial01/) tutorial as a foundation to build the website in the LinkedIn Learning tutorial [Learning Django](https://www.linkedin.com/learning/learning-django-2)
